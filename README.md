@@ -7,7 +7,9 @@ We are going to use [Trinket](https://trinket.io/) to create our programs. It al
 
 
 ## Projects:
+### For Every week
+* [start a blank code here](http://jumpto.cc/python-new) or Login to your account on [Trinket](https://trinket.io/) or 
+
 
 ### Week 1 - About me 
-* Login to your account on [Trinket](https://trinket.io/) or [start a blank code here](http://jumpto.cc/python-new)
-* [Follow the steps of the project](https://projects.raspberrypi.org/en/projects/about-me/3)
+* [Follow the project's steps](https://projects.raspberrypi.org/en/projects/about-me/3)
