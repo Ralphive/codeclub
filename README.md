@@ -16,12 +16,13 @@ In this project you will learn how to write a Python program telling people all 
 * [Follow the project's steps](https://projects.raspberrypi.org/en/projects/about-me/3)
 
 
-### Week 2 - Rock, Paper, Scissor
+### Week 2 - Rock, Paper, Scissors
 In this project you will make a Rock, Paper, Scissors game and play against the computer.
 
-Rules: You and the computer both choose rock, paper or scissors. The winner is decided by these rules:
-*    Rock blunts scissors
-*    Paper covers rock
-*    Scissors cut paper
+Rules: You and the computer both choose rock, paper or scissors. 
+
+The winner is decided by these rules:
+
+Rock blunts scissors, Paper covers rock, Scissors cut paper
 
 * [Follow the project's steps](https://projects.raspberrypi.org/en/projects/rock-paper-scissors/2)
