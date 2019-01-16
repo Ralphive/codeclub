@@ -14,7 +14,7 @@ We are going to use [Trinket](https://trinket.io/) to create our programs. It al
 ### Week 1 - About me 
 In this project you will learn how to write a Python program telling people all about you.
 * [Follow the project's steps](https://projects.raspberrypi.org/en/projects/about-me/3)
-* [Presentation][Week1/Week1.pptx]
+* [Presentation](Week1/Week1.pptx)
 
 
 ### Week 2 - Rock, Paper, Scissors
@@ -27,5 +27,5 @@ The winner is decided by these rules:
 Rock blunts scissors, Paper covers rock, Scissors cut paper
 
 * [Follow the project's steps](https://projects.raspberrypi.org/en/projects/rock-paper-scissors/2)
-* [Presentation][Week2/Week2.pptx]
-* [Finished Exerciese][Week2/rock-paper-scissors-finished.py]
+* [Presentation](Week2/Week2.pptx)
+* [Finished Exerciese](Week2/rock-paper-scissors-finished.py)
