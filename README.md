@@ -30,7 +30,7 @@ Rock blunts scissors, Paper covers rock, Scissors cut paper
 * [Presentation](Week2/Week2.pptx)
 * [Finished Exerciese](Week2/rock-paper-scissors-finished.py)
 
-## Week 3 - Turtle Race
+### Week 3 - Turtle Race
 This project introduces for loops through a fun turtle race game. Loops are used to draw the race track and to make the turtles move a random number of steps each turn. If you have a group of people to play the game, each person pick a turtle and the one that gets the furthest is the winner.
 
 Rules: You and the computer both choose rock, paper or scissors. 
@@ -40,3 +40,9 @@ The winner is decided by these rules:
 Rock blunts scissors, Paper covers rock, Scissors cut paper
 
 * [Follow the project's steps](https://projects.raspberrypi.org/en/projects/turtle-race/3)
+
+### Week 4 - Loops Concepts
+No Challenge this week. We are going to focus on Loops fundamental.
+* [start a blank code here](http://jumpto.cc/python-new) or Login to your account on [Trinket](https://trinket.io/) or 
+* [Presentation](Week4/Week4.pptx)
+
