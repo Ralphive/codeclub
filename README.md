@@ -45,5 +45,5 @@ No Challenge this week. We are going to focus on Loops fundamental.
 This week we are going to learn about **Lists** a way to store more than 1 value inside a variable
 We will start with:
 * [Challenge #1 to create teams](https://projects.raspberrypi.org/en/projects/team-chooser/2)
-* [Challenge #2 Colours!](We will start with [Challenge #1 to create team](https://projects.raspberrypi.org/en/projects/colourful-creations))
+* [Challenge #2 Colours!](https://projects.raspberrypi.org/en/projects/colourful-creations))
 
