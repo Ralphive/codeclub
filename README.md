@@ -47,8 +47,15 @@ We will start with:
 * [Challenge #1 to create teams](https://projects.raspberrypi.org/en/projects/team-chooser/2)
 * [Challenge #2 Colours!](https://projects.raspberrypi.org/en/projects/colourful-creations))
 
-### Week 5 - Encryption
+### Week 6 - Encryption
 Lets talk about Ciphers and Create our first encryption Program
-* [Challege: Secret Messages](https://projects.raspberrypi.org/en/projects/secret-messages/2)
+* [Challenge: Secret Messages](https://projects.raspberrypi.org/en/projects/secret-messages/2)
+* [Presentation](Week6/Week6.pptx)
+
+### Week 7 - Half Term
+Easygoing challenges. Relax time
+* [Challenge: Help Karel the Robot](https://hoc.nclab.com/karel/)
+* [Challenge: Toxic Jungle](https://www.tynker.com/nb/project/58225568af9231d0668b465a/?dir=director&chapterid=57f69349af92317e458b458c&s=0)
+
 
 
