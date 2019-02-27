@@ -57,5 +57,9 @@ Easygoing challenges. Relax time
 * [Challenge: Help Karel the Robot](https://hoc.nclab.com/karel/)
 * [Challenge: Toxic Jungle](https://www.tynker.com/nb/project/58225568af9231d0668b465a/?dir=director&chapterid=57f69349af92317e458b458c&s=0)
 
+### Week 8 - Functions
+* [Challenge: Modern Art](https://projects.raspberrypi.org/en/projects/modern-art)
+
+
 
 
