@@ -60,6 +60,9 @@ Easygoing challenges. Relax time
 ### Week 8 - Functions
 * [Challenge: Modern Art](https://projects.raspberrypi.org/en/projects/modern-art)
 
+### Week 9 - Charts
+* [Challenge: Charts](https://projects.raspberrypi.org/en/projects/popular-pets)
+
 
 
 
