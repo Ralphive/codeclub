@@ -61,7 +61,7 @@ Easygoing challenges. Relax time
 * [Challenge: Modern Art](https://projects.raspberrypi.org/en/projects/modern-art)
 
 ### Week 9 - Charts
-* [Challenge: Charts](https://projects.raspberrypi.org/en/projects/popular-pets)
+* [Challenge: RPG Game](https://projects.raspberrypi.org/en/projects/rpg)
 
 
 
