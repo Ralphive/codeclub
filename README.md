@@ -66,6 +66,7 @@ Easygoing challenges. Relax time
 ### Week 10 - Adventures
 Very basic Introduction using games:
 * [Code Combat](https://codecombat.com/play/level/dungeons-of-kithgard?)
+
 Challenge - Find where is the international Space Station
 * [Where is the Space Station](https://projects.raspberrypi.org/en/projects/where-is-the-space-station)
 
