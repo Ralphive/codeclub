@@ -69,6 +69,7 @@ Very basic Introduction using games:
 
 Challenge - Find where is the international Space Station
 * [Where is the Space Station](https://projects.raspberrypi.org/en/projects/where-is-the-space-station)
+* [Bot](https://hoc.codewards.org/start?u=hoc40&lang=en)
 
 
 
